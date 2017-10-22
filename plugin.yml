@@ -1,0 +1,10 @@
+main: com.delphinadrealms.threestrikes.Main
+name: ThreeStrikes
+version: 1.0
+author: Hank
+description: Strikes system for players that misbehave.
+commands:
+    strike:
+      description: Base strike command
+      usage: /strike <args>
+      permission: strikes.strikes
